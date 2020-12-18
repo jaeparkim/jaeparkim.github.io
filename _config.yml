@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Jaeparkim
+title: Jaeparkim | jaeparkim
 description:
 tags:
   - blog
@@ -25,11 +25,11 @@ disqus_username: disqus_username
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: jaeparkim
-facebook_username: facebook_username
-twitter_username: twitter_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
 instagram_username: iaeoark
 linkedin_username: jaeparkim
-medium_username: medium_username
+# medium_username: medium_username
 
 
 # Posts Settings
@@ -100,4 +100,9 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v3.1.0i
+
+# etc
+# strict_front_matter: true
+# incremental: true
+# livereload: true
