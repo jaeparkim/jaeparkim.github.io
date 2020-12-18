@@ -1,7 +1,7 @@
 # Site Settings
 name: Jaeparkim
 title: Jaeparkim | jaeparkim
-description:
+description: jaeparkim inspired by jae park
 tags:
   - blog
   - template
@@ -20,6 +20,8 @@ menu:
     url: /feed.xml
 email: 96jpark@gmail.com
 disqus_username: disqus_username
+masthead_title: As it was in the beginning, is now, and ever shall be
+
 
 
 # Social Media Settings
@@ -34,14 +36,14 @@ linkedin_username: jaeparkim
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: true
+show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jaeparkim.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jaeparkim.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -100,7 +102,7 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0i
+version: 2021
 
 # etc
 # strict_front_matter: true
