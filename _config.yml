@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description:
+name: Jaeparkim
+title: Jaeparkim | jaeparkim | jae park
+description: jaeparkim inspired by jae park
 tags:
   - blog
   - template
@@ -20,28 +20,30 @@ menu:
     url: /feed.xml
 email: 96jpark@gmail.com
 disqus_username: disqus_username
+masthead_title: As it was in the beginning, is now, and ever shall be
+
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: jaeparkim
-facebook_username: facebook_username
-twitter_username: twitter_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
 instagram_username: iaeoark
 linkedin_username: jaeparkim
-medium_username: medium_username
+# medium_username: medium_username
 
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: true
+show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jaeparkim.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jaeparkim.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -101,3 +103,9 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
+# etc
+strict_front_matter: true
+incremental: true
+livereload: true
+
